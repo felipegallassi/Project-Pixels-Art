@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    text-align: center;
+  }
+  
+  span.color {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: black;
+  }
