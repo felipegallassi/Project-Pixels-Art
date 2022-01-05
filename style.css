@@ -11,3 +11,18 @@ body {
     border-radius: 10px;
     background-color: black;
   }
+
+  section#pixel-board {
+    display: inline-block;
+    width: 210px;
+    line-height: 0;
+  }
+  
+  span.pixel {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border: 1px solid black;
+    background-color: white;
+    margin: -0.5px;
+  }
