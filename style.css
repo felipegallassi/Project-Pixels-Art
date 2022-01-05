@@ -2,6 +2,10 @@ body {
     margin: 0;
     text-align: center;
   }
+
+  section#color-palette {
+    margin-bottom: 40px;
+  }
   
   span.color {
     display: inline-block;
@@ -10,7 +14,9 @@ body {
     border: 1px solid black;
     border-radius: 10px;
     background-color: black;
+    margin: 0 6px;
   }
+  
 
   section#pixel-board {
     display: inline-block;
